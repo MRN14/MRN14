@@ -1,9 +1,7 @@
-### Hello Github! I'm Marine Le Cam
+### 👋🏻 Hello Github!
 
-MRN14 =
-{
-  "study" : "web development",
-  "contact" : {
-    "mail" : "marinelecam14@gmail.com",
-    }
-}
+- 😄 I'm Marine Le Cam
+- 💻 I study web development
+- 🎨 I got a bachelor's degree in graphic design
+- 🐉 I'm a dungeon master
+- 🦊 find more of my work on gitlab
