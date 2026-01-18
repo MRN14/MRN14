@@ -4,4 +4,4 @@
 - 💻 I study web development
 - 🎨 I got a bachelor's degree in graphic design
 - 🐉 I'm a dungeon master
-- 🦊 find more of my work on gitlab
+- 🦊 find more of my work on [gitlab](https://gitlab.com/MarineLC14)
