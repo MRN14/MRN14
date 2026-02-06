@@ -1,7 +1,7 @@
-### 👋🏻 Hello Github!
+### 👋🏻 Hi I'm Marine Le Cam
 
-- 😄 I'm Marine Le Cam
-- 💻 I study web development
+- 💻 I study web development at Institut Marie-Thérèse Solacroup
 - 🎨 I got a bachelor's degree in graphic design
 - 🐉 I'm a dungeon master
-- 🦊 find more of my work on [gitlab](https://gitlab.com/MarineLC14)
+
+[![gitlab]([GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white))]([target-url](https://gitlab.com/MarineLC14))
